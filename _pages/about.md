@@ -71,10 +71,26 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/HuHengchang.jpg"/><BR/>
+  <strong>HU Hengchang</strong>
+  <BR/>
+  <A HREF="mailto:e0409766@u.nus.edu">e0409766@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Joel LEE</strong>
   <BR/>
   <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile"> 
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
+  <img src="images/yuxuan.jpg"/><BR/> 
+  <strong>LIANG Yuxuan</strong> 
+  <BR/> 
+  <A HREF="mailto:e0427783@u.nus.edu">e0427783@u.nus.edu</A><BR/> 
 </div>
 
 <div class="tutor__profile">
@@ -90,6 +106,30 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 ### Undergraduate Teaching Assistants
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
+
+<div class="tutor__profile"> 
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
+  <img src="images/Shreyas.jpg"/><BR/> 
+  <strong>Shreyas KUTHANOOR PRAKASH</strong> 
+  <BR/> 
+  <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/bio-photo.jpg" width="120"><BR/>
+  <strong>Marcus LEE</strong>
+  <BR/>
+  <A HREF="mailto:marcus_lee@u.nus.edu">achal@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile"> 
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
+  <img src="images/LeowWB.jpg"/><BR/> 
+  <strong>LEOW Wen Bin</strong> 
+  <BR/> 
+  <A HREF="mailto:leowwb@u.nus.edu">leowwb@u.nus.edu</A><BR/> 
+</div>
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
@@ -131,22 +171,6 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
 </div>
 
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Tongyao.jpg"/><BR/>
-  <strong>ZHU Tongyao</strong>
-  <BR/>
-  <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
-  <img src="images/Shreyas.jpg"/><BR/> 
-  <strong>Shreyas KUTHANOOR PRAKASH</strong> 
-  <BR/> 
-  <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
-</div>
-
 <div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Chenyang.jpg"/><BR/> 
@@ -157,18 +181,18 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 <div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
-  <img src="images/LeowWB.jpg"/><BR/> 
-  <strong>LEOW Wen Bin</strong> 
-  <BR/> 
-  <A HREF="mailto:leowwb@u.nus.edu">leowwb@u.nus.edu</A><BR/> 
-</div>
-
-<div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Tianyang.jpg"/><BR/> 
   <strong>ZHANG Tianyang</strong> 
   <BR/> 
   <A HREF="mailto:e0253753@u.nus.edu">e0253753@u.nus.edu</A><BR/> 
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/Tongyao.jpg"/><BR/>
+  <strong>ZHU Tongyao</strong>
+  <BR/>
+  <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
 </div>
 
 </div>
